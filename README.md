@@ -1,6 +1,7 @@
 # Excel-dashboard
 
 An interactive dashboard based historical data using charts and a map to presents operating profit and sales KPI’s.
+![](images/Dashboard_key%20retailers.jpg)
 
 ## Objective
 To create a dashboard that acts in generic data in a meaningful way and KPI’s lead to action.
